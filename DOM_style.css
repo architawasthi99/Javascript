@@ -1,0 +1,21 @@
+#heading{
+   color: yellow;
+   font : 90px Arial;
+   text-decoration: dotted underline; 
+   background-color: black;  
+}
+#heading2{
+    color:red;
+    font: 90px Arial;
+    text-decoration: dotted;
+
+}
+.heading3{
+    color: green;
+    font: 50px Arial;
+    text-decoration: dotted;
+}
+body{
+    background-color: pink;
+    color: black;
+}
