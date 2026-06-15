@@ -1,0 +1,10 @@
+#repo{
+    height: 100px;
+    width: 300px;
+    background-color: aqua;
+    color: black;
+    border: 2px solid black;
+    text-align: center;
+    justify-content: center;
+    text-decoration: wavyline;
+}
